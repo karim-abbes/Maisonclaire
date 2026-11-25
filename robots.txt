@@ -1,0 +1,19 @@
+# Maison Claire - https://maisonclaire-debarras.fr/
+
+User-agent: *
+Allow: /
+
+# Moteurs de recherche et robots de recherche IA, autorisés explicitement
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Applebot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: DuckAssistBot
+Allow: /
+
+Sitemap: https://maisonclaire-debarras.fr/sitemap.xml
